@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.042" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\alexandre.coelho\Desktop\raven\my-app\target\test-classes;C:\Users\alexandre.coelho\Desktop\raven\my-app\target\classes;C:\Users\alexandre.coelho\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\alexandre.coelho\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.3\bin"/>
+    <property name="sun.java.command" value="C:\Users\ALEXAN~1.COE\AppData\Local\Temp\surefire18268177313666429538\surefirebooter12928885254043622664.jar C:\Users\alexandre.coelho\AppData\Local\Temp\surefire18268177313666429538 2019-09-20T17-26-15_468-jvmRun1 surefire9409040258462503040tmp surefire_08076481275634424730tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\alexandre.coelho\Desktop\raven\my-app\target\test-classes;C:\Users\alexandre.coelho\Desktop\raven\my-app\target\classes;C:\Users\alexandre.coelho\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\alexandre.coelho\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\alexandre.coelho"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-04-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.3"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\alexandre.coelho\Desktop\raven\my-app"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\ALEXAN~1.COE\AppData\Local\Temp\surefire18268177313666429538\surefirebooter12928885254043622664.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.3+12-LTS"/>
+    <property name="user.name" value="alexandre.coelho"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\alexandre.coelho\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ALEXAN~1.COE\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.3"/>
+    <property name="user.dir" value="C:\Users\alexandre.coelho\Desktop\raven\my-app"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\alexandre.coelho\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\cmd;E:\app\alexandre.coelho\product\11.2.0\dbhome_1\bin;D:\Program Files (x86)\CollabNet;D:\Programas\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;D:\Programas\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;D:\viasoft\Client\dlls;C:\Program Files\Firebird\Firebird_2_5\WOW64;D:\Programas\Git\cmd;Z:\viasoft\APP3c;D:\Atalhos;D:\Viasoft\Client\Dlls\RO_Server;D:\Viasoft\Client\Dlls\RO_Client;D:\Programas\TortoiseSVN\bin;C:\Viasoft\Client\dlls;H:\DELPHI\Outros\DevExpress\Library\RS21;H:\DELPHI\Outros\RBuilder\Lib;H:\DELPHI\Outros\gxDbGrid\Source;H:\DELPHI\Outros\gxDbGrid\Lib;H:\DELPHI\Outros\Tb97\Lib;H:\DELPHI\OUTROS\ZIPMASTER\LIB;H:\DELPHI\OUTROS\GXDBGRID\LIB;H:\DELPHI\OUTROS\ACBR\LIB\DELPHI\LIBD21;H:\DELPHI\VIASOFT\LIB;H:\DELPHI\OUTROS\ACBR\LIB;H:\DELPHI\OUTROS\TB97\LIB;H:\DELPHI\OUTROS\RBUILDER\LIB\WIN32;H:\delphi\outros\JEDI\JCL;H:\delphi\viasoft\lib\Win32;C:\Program Files\cURL\bin;C:\Program Files\Git\cmd;D:\Programas\nodejs;C:\Program Files\Java\jdk-11.0.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Users\alexandre.coelho\AppData\Local\Programs\Python\Python37-32\python.exe;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin;C:\MinGW\bin;C:\Program Files\dotnet;C:\Users\alexandre.coelho\Desktop\apache-maven-3.6.2\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\alexandre.coelho\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.3+12-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.001"/>
+</testsuite>
